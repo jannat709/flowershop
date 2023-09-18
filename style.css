@@ -10,28 +10,73 @@
     padding-bottom: 12px;
     padding-top: 12px;
 }
-nav li{
-    list-style: none;
-    margin-top: 50px;
-}
 .text-header{
     color: black;
-    margin: 25px 25px;
+    font-size: xx-large;
+    margin: auto;
 }
 nav{
     justify-content: space-evenly;
 }
 .header{
-    background-color: rgb(234, 171, 192);
+    background-color: rgb(246, 235, 240);
+    text-align: left;
 }
 .banner{
     display: flex;
     padding: 30px 30px 00px 150px;
     align-items: center;
 }
-.banner.headimg{
-    width: 500px;
-    max-height: max-content;
+.headimg{
+    width: 300px;
     margin-left: auto;
+    align-items: center;
+    padding-right: 20%;
+}
+.pera{
+    padding-right: 60%;
+    align-items: center;
+    font-size: xx-small;
+    color: gray;
+}
+.hotdeal{
+    display: flex;
+    justify-content: center;
+}
+.hot{
+    align-items: center;
+}
+.ht{
+    text-align: center;
     padding: auto;
+    margin-top: 100px;
+}
+.deal{
+    background-color: rgb(251, 237, 242);
+    padding: 30px 30px 00px 0px;
+    text-align: center;
+}
+.textdeal{
+    font-size: xx-large;
+    text-align: center;
+    align-items: center;
+    margin-top: 25px;
+    margin-bottom: 20pxpx;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.hotimg{
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
+.colour{
+    color: palevioletred;
+}
+.hotpera{
+    align-items: center;
+    font-size: xx-small;
+    color: gray;
+    
 }
