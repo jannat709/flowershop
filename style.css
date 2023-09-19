@@ -65,7 +65,7 @@ nav{
     text-align: center;
     align-items: center;
     margin-top: 25px;
-    margin-bottom: 20pxpx;
+    margin-bottom: 20px;
     margin-left: 250px;
     margin-right: 250px;
 }
@@ -75,7 +75,6 @@ nav{
     margin-right: auto;
     align-items: center;
     padding-bottom: 50px;
-    justify-content: space-between;
 }
 .colour{
     color: palevioletred;
@@ -89,4 +88,40 @@ nav{
 }
 .span{
     color: palevioletred;
+}
+.textinsta{
+    width: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    font-size: x-large;
+}
+.instapera{
+    text-align: center;
+    color: gray;
+    font-size: xx-small;
+    margin-top: 25px;
+    margin-bottom: 20pxpx;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.insta img{
+    width: 20%;
+    margin-left: 1%;
+    margin-right: 0.5%;
+    padding-left: 2%;
+}
+.sub{
+    background-image: url(./Flower\ Asset/sub.png);
+    background-size: 100% 100% 100% 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 1000px;
+    margin: auto;
+}
+.textsub{
+    align-items: center;
+    text-align: center;
+    padding-top: 100px;
 }
