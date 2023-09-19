@@ -108,20 +108,50 @@ nav{
 
 .insta img{
     width: 20%;
-    margin-left: 1%;
-    margin-right: 0.5%;
-    padding-left: 2%;
+    gap: 100px;
+    margin-left: 3%;
+    padding: 1% 0.5% 0.5% 1%;
+    margin: fit-content;
 }
 .sub{
     background-image: url(./Flower\ Asset/sub.png);
     background-size: 100% 100% 100% 100%;
     background-repeat: no-repeat;
     text-align: center;
-    height: 1000px;
-    margin: auto;
+    height: 450px;
+    padding: 1% 0.5% 0.5% 1%;
+    margin-left: 1%;
+    margin-right: 1%;
 }
 .textsub{
     align-items: center;
     text-align: center;
     padding-top: 100px;
+}
+.mail{
+    padding: 1%;
+    border: 0;
+    border-radius: 5px;
+    width: 50%;
+}
+.last{
+    background-color: black;
+    height: 200px;
+    text-align: center;
+    padding-bottom: 10%;
+}
+.lastpera{
+    color:whitesmoke;
+    text-align: center;
+    font-size: x-small;
+}
+.heading{
+    color: white;
+    padding-top: 7%;
+    font-size: xx-large;
+}
+.end{
+    color: lightslategrey;
+    font-size: xx-small;
+    padding-top: 2%;
 }
